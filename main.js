@@ -2,7 +2,8 @@ const container = document.querySelector('.container');
       const popup=document.querySelector('.popup');
       const close_btn=popup.querySelector('button');
       
-      let category=['india','london','russia','arctic','europe','arabia','switzerland','oceans','finland','thailand','dessert'];
+      let category=['india','london','russia','arctic','europe','arabia','switzerland','oceans','finland','thailand','dessert','mexico',
+                      'brazil', 'usa', 'canada','indonesia','japan','italy','malaysia'];
   
       const orient=['vtall','htall']
   
